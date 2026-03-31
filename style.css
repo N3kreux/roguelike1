@@ -8,3 +8,9 @@ body {
 #game {
   line-height: 1.2;
 }
+
+/* Player */
+#game span.player { color: #ff0000; } /* red for danger */
+
+/* Exit */
+#game span.exit { color: #ff5555; } /* dull red, creepy */
