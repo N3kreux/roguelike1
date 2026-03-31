@@ -53,7 +53,7 @@ document.addEventListener("keydown", (e) => {
 
     // Check if player reached exit
     if (player.x === exit.x && player.y === exit.y) {
-      alert("YOU ESCAPED… OR DID YOU?");
+      alert("YOU ESCAPED, OR DID YOU?");
       // Later: replace alert with corrupted/glitch effect
     }
   }
